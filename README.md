@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kholidanas27
 - 👀 I’m interested in Laravel & ReactJs
-- 🌱 I’m currently learning WEB API
+- 🌱 I’m currently learning whatever about coding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
