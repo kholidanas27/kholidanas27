@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kholid Anas Amrulloh, Founder of https://gekatech.my.id/
 - 👀 I’m interested in Laravel & ReactJs
-- 🌱 I’m currently learning whatever about coding
+- 🌱 I’m currently learning about Programming and DevOps
 - 💞️ I’m looking to collaborate on your project
 - 📫 How to reach me amrulloh30@gmail.com
 
