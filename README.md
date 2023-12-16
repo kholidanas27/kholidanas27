@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kholid Anas Amrulloh, Founder of https://playfala.com/
-- 👀 I’m have experience with Laravel, Lumen, Java, AngularJs, ReactJs, ExpressJs, Symfony Framework and VueJs
+- 👀 I have experience with Laravel, Lumen, Java, AngularJs, ReactJs, ExpressJs, Symfony Framework and VueJs
 - 🌱 I’m currently learning about Programming and DevOps
 - 💞️ I’m looking to collaborate on your project
 - 📫 How to reach me amrulloh30@gmail.com
